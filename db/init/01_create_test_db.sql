@@ -1,0 +1,1 @@
+CREATE DATABASE coop_test OWNER coop;
